@@ -1,0 +1,4 @@
+function main()
+ msgbox "33333”î"
+end function
+

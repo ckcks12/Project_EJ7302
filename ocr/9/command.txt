@@ -1,0 +1,4 @@
+function main()
+magbox"9"
+end function
+
